@@ -67,7 +67,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/samukagomesdv/samukagomesdv/output/snake.svg" alt="Snake animation" /> />
+<img src="https://raw.githubusercontent.com/samukagomesdv/samukagomesdv/output/snake.svg" alt="Snake animation" />
 
 
 ###
