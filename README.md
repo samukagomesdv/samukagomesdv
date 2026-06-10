@@ -5,8 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/samukagomesdv/samukagomesdv/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/samukagomesdv/samukagomesdv/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" height="150"  />
 </div>
 
 ###
