@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samukagomesdv"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samukagomesdv" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samukagomesdv&theme=dark"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samukagomesdv&theme=dark" />
     
 </div>
 
@@ -69,10 +69,5 @@
 
 <img src="https://raw.githubusercontent.com/samukagomesdv/samukagomesdv/snake-output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 ###
