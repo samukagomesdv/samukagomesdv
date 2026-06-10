@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samukagomesdv" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samukagomesdv&size_weight=0.5&count_weight=0.5" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samukagomesdv"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samukagomesdv />
     
 </div>
 
