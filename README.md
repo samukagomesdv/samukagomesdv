@@ -6,14 +6,15 @@
 
 
 <br>
-Profissional de tecnologia de 26 anos, com experiência em
+<p></p>Profissional de tecnologia de 26 anos, com experiência em
 desenvolvimento de jogos, informática avançada e design
 gráfico. Possui conhecimentos em desenvolvimento web
 (HTML e CSS) e atualmente está se especializando em Análise
-de Dados com foco em SQL
+de Dados com foco em SQL</p>
 <br>
 <br>
-<br>
+
+## Linguagens e Programas
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -48,6 +49,9 @@ de Dados com foco em SQL
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 <br>
+
+### Redes e Contato
+
 <div align="left">
   <a href="https://www.youtube.com/@SamukaGomes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -55,7 +59,7 @@ de Dados com foco em SQL
   <a href="https://www.instagram.com/isamukaaa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="samukagomes.contato@gmail.com" target="_blank">
+  <a href="mailto:samukagomes.contato@gmail.com target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/samukagomes/" target="_blank">
